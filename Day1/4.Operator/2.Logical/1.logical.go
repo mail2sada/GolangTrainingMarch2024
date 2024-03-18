@@ -30,5 +30,7 @@ func main() {
 
 	fmt.Println(res)
 
-	res = a != b && c > b || a < c
+	res = (a != b && c > b) || a < c
+
+	fmt.Println(res)
 }

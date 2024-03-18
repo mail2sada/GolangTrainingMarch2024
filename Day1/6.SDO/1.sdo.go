@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-x := 100
+
 
 func main() {
 	fmt.Println("Demo: Short delcaration operator")
