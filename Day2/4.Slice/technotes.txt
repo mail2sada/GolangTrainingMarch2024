@@ -1,0 +1,5 @@
+
+type Slice struct {
+    ptr *[]array
+    len, cap int
+}
