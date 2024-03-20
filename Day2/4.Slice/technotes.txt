@@ -1,5 +1,5 @@
 
 type Slice struct {
-    ptr *[]array
+    ptr *[cap]array
     len, cap int
 }

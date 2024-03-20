@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("testString contains", testString)
 
 	fmt.Println("length of string", len(testString)) // printing length of string
+	
 }

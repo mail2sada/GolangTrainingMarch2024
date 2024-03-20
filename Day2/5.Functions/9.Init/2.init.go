@@ -15,7 +15,7 @@ func init() {
 }
 
 func init() {
-	fmt.Println("Inside init 4")
+	fmt.Println("Inside init4")
 }
 
 func main() {
@@ -23,5 +23,5 @@ func main() {
 }
 
 func init() {
-	fmt.Println("Inside init 5")
+	fmt.Println("Inside init5")
 }

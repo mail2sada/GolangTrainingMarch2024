@@ -16,4 +16,4 @@ func main() {
 	fmt.Println(a, c)
 }
 
-func
+
